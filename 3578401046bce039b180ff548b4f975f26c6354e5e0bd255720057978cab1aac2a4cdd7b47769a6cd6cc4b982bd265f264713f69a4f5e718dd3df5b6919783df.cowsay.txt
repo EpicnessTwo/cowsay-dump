@@ -1,0 +1,12 @@
+ _________________________________________ 
+/ "[In 'Doctor' mode], I spent a good ten \
+| minutes telling Emacs what I thought of |
+| it. (The response was, 'Perhaps you     |
+| could try to be less abusive.')" (By    |
+\ Matt Welsh)                             /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

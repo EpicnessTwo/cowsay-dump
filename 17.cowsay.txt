@@ -1,0 +1,15 @@
+ _________________________________________ 
+/ Ill-chosen abstraction is particularly  \
+| evident in the design of the ADA        |
+| runtime system. The interface to the    |
+| ADA runtime system is so opaque that it |
+| is impossible to model or predict its   |
+| performance, making it effectively      |
+| useless for real-time systems. -- Marc  |
+\ D. Donner and David H. Jameson.         /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

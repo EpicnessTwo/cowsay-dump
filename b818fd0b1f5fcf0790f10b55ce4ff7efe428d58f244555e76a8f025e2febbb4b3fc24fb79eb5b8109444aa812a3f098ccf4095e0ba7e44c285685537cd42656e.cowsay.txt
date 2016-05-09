@@ -1,0 +1,11 @@
+ _________________________________________ 
+/ Conway's Law: In any organization there \
+| will always be one person who knows     |
+| what is going on. This person must be   |
+\ fired.                                  /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

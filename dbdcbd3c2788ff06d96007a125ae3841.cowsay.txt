@@ -1,0 +1,77 @@
+ _________________________________________ 
+/ /Applications /Library /Network /System \
+| /Users /Volumes /bin /cores /dev /etc   |
+| /home /installer.failurerequests /net   |
+| /opt /private /sbin /tmp /usr /var      |
+| Applications BitTorrent Sync Creative   |
+| Cloud Files Desktop Documents Downloads |
+| Google Drive Library Movies Music       |
+| Pictures Public Scripts VirtualBox VMs  |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh [...] Note that 120 |
+| sec is defined in the protocol as the   |
+| maximum Applications BitTorrent Sync    |
+| Creative Cloud Files Desktop Documents  |
+| Downloads Google Drive Library Movies   |
+| Music Pictures Public Scripts           |
+| VirtualBox VMs codaConfig cow.sh cowsay |
+| cowsay-dump dead.letter downcloud ftb   |
+| game.tmp itake.mp3 kill.sh lookout      |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh possible RTT. I     |
+| guess we'll have to use something other |
+| than TCP Applications BitTorrent Sync   |
+| Creative Cloud Files Desktop Documents  |
+| Downloads Google Drive Library Movies   |
+| Music Pictures Public Scripts           |
+| VirtualBox VMs codaConfig cow.sh cowsay |
+| cowsay-dump dead.letter downcloud ftb   |
+| game.tmp itake.mp3 kill.sh lookout      |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh to talk to the      |
+| University of Mars. Applications        |
+| BitTorrent Sync Creative Cloud Files    |
+| Desktop Documents Downloads Google      |
+| Drive Library Movies Music Pictures     |
+| Public Scripts VirtualBox VMs           |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh PAWS allows us      |
+| longer timeouts and large windows, so   |
+| once implemented Applications           |
+| BitTorrent Sync Creative Cloud Files    |
+| Desktop Documents Downloads Google      |
+| Drive Library Movies Music Pictures     |
+| Public Scripts VirtualBox VMs           |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh ftp to mars will    |
+| work nicely. Applications/ BitTorrent   |
+| Sync/ Creative Cloud Files/ Desktop/    |
+| Documents/ Downloads/ Google Drive/     |
+| Library/ Movies/ Music/ Pictures/       |
+| Public/ Scripts/ VirtualBox VMs/        |
+| codaConfig/ cowsay-dump/ cowsay/        |
+| downcloud/ ftb/ lookout/                |
+| no-more-secrets/ node_modules/ (from    |
+| /usr/src/linux/net/inet/tcp.c,          |
+| concerning RTT [retransmission          |
+\ timeout])                               /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

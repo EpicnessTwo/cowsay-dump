@@ -1,0 +1,10 @@
+ _________________________________________ 
+/ A LISP programmer knows the value of    \
+| everything, but the cost of nothing. -- |
+\ Alan Perlis                             /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

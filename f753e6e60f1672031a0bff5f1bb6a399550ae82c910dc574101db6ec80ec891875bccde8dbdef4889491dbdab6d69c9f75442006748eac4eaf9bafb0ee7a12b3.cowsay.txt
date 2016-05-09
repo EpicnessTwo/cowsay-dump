@@ -1,0 +1,51 @@
+ _________________________________________ 
+/ `Lasu' Releases SAG 0.3 -- Freeware     \
+| Book Takes Paves For New World Order by |
+| staff writers Helsinki, Finland, August |
+| 6, 1995 -- In a surprise movement, Lars |
+| ``Lasu'' Wirzenius today released the   |
+| 0.3 edition of the ``Linux System       |
+| Administrators' Guide''. Already an     |
+| industry non-classic, the new version   |
+| sports such overwhelming features as an |
+| overview of a Linux system, a           |
+| completely new climbing session in a    |
+| tree, and a list of acknowledgements in |
+| the introduction. The SAG, as the book  |
+| is affectionately called, is one of the |
+| corner stones of the Linux              |
+| Documentation Project. ``We at the LDP  |
+| feel that we wouldn't be able to        |
+| produce anything at all, that all our   |
+| work would be futile, if it weren't for |
+| the SAG,'' says Matt Welsh, director of |
+| LDP, Inc. The new version is still      |
+| distributed freely, now even with a     |
+| copyright that allows modification.     |
+| ``More dough,'' explains the author.    |
+| Despite insistent rumors about blatant  |
+| commercialization, the SAG will         |
+| probably remain free. ``Even more       |
+| dough,'' promises the author. The       |
+| author refuses to comment on Windows NT |
+| and Windows 96 versions, claiming not   |
+| to understand what the question is      |
+| about. Industry gossip, however, tells  |
+| that Bill Gates, co-founder and CEO of  |
+| Microsoft, producer of the Windows      |
+| series of video games, has visited      |
+| Helsinki several times this year.       |
+| Despite of this, Linus Torvalds, author |
+| of the word processor Linux with which  |
+| the SAG was written, is not worried.    |
+| ``We'll have world domination real soon |
+| now, anyway,'' he explains, ``for 1.4   |
+| at the lastest.'' ... -- Lars Wirzenius |
+| <wirzeniu@cs.helsinki.fi>               |
+\ [comp.os.linux.announce]                /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

@@ -1,0 +1,22 @@
+ _________________________________________ 
+/ Proposed Additions to the PDP-11        \
+| Instruction Set: PI Punch Invalid POPI  |
+| Punch Operator Immediately PVLC Punch   |
+| Variable Length Card RASC Read And      |
+| Shred Card RPM Read Programmers Mind    |
+| RSSC reduce speed, step carefully (for  |
+| improved accuracy) RTAB Rewind tape and |
+| break RWDSK rewind disk RWOC Read       |
+| Writing On Card SCRBL scribble to disk  |
+| - faster than a write SLC Search for    |
+| Lost Chord SPSW Scramble Program Status |
+| Word SRSD Seek Record and Scar Disk     |
+| STROM Store in Read Only Memory TDB     |
+| Transfer and Drop Bit WBT Water Binary  |
+\ Tree                                    /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

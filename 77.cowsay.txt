@@ -1,0 +1,10 @@
+ ________________________________________ 
+/ Asynchronous inputs are at the root of \
+| our race problems. -- D. Winker and F. |
+\ Prosser                                /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

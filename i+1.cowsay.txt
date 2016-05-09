@@ -1,0 +1,12 @@
+ _________________________________________ 
+/ Intel engineering seem to have misheard \
+| Intel marketing strategy. The phrase    |
+| was "Divide and conquer" not "Divide    |
+| and cock up" (By                        |
+\ iialan@www.linux.org.uk, Alan Cox)      /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

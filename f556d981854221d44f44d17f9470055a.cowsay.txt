@@ -1,0 +1,11 @@
+ _________________________________________ 
+/ "Unibus timeout fatal trap program lost \
+| sorry" - An error message printed by    |
+| DEC's RSTS operating system for the     |
+\ PDP-11                                  /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

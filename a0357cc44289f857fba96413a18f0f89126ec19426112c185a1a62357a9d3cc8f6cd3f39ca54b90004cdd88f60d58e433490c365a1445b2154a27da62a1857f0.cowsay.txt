@@ -1,0 +1,13 @@
+ _________________________________________ 
+/ "Note that if I can get you to \"su and \
+| say\" something just by asking, you     |
+| have a very serious security problem on |
+| your system and you should look into    |
+| it." (By Paul Vixie, vixie-cron 3.0.1   |
+\ installation notes)                     /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

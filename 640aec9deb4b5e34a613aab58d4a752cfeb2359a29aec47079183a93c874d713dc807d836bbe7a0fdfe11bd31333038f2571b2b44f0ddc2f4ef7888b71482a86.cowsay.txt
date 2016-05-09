@@ -1,0 +1,44 @@
+ _________________________________________ 
+/ Besides the device, the box should      \
+| contain: Applications BitTorrent Sync   |
+| Creative Cloud Files Desktop Documents  |
+| Downloads Google Drive Library Movies   |
+| Music Pictures Public Scripts           |
+| VirtualBox VMs codaConfig cow.sh cowsay |
+| cowsay-dump dead.letter downcloud ftb   |
+| game.tmp itake.mp3 kill.sh lookout      |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh Eight little        |
+| rectangular snippets of paper that say  |
+| "WARNING" Applications BitTorrent Sync  |
+| Creative Cloud Files Desktop Documents  |
+| Downloads Google Drive Library Movies   |
+| Music Pictures Public Scripts           |
+| VirtualBox VMs codaConfig cow.sh cowsay |
+| cowsay-dump dead.letter downcloud ftb   |
+| game.tmp itake.mp3 kill.sh lookout      |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh A plastic packet    |
+| containing four 5/17 inch pilfer        |
+| grommets and two club-ended 6/93 inch   |
+| boxcar prawns. YOU WILL NEED TO SUPPLY: |
+| a matrix wrench and 60,000 feet of tram |
+| cable. IF ANYTHING IS DAMAGED OR        |
+| MISSING: You IMMEDIATELY should turn to |
+| your spouse and say: "Margaret, you     |
+| know why this country can't make a car  |
+| that can get all the way through the    |
+| drive-through at Burger King without a  |
+| major transmission overhaul? Because    |
+| nobody cares, that's why." WARNING:     |
+| This is assuming your spouse's name is  |
+| Margaret. -- Dave Barry, "Read This     |
+\ First!"                                 /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

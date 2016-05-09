@@ -1,0 +1,62 @@
+ _________________________________________ 
+/ Applications BitTorrent Sync Creative   \
+| Cloud Files Desktop Documents Downloads |
+| Google Drive Library Movies Music       |
+| Pictures Public Scripts VirtualBox VMs  |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh IMPORTANT           |
+| Applications BitTorrent Sync Creative   |
+| Cloud Files Desktop Documents Downloads |
+| Google Drive Library Movies Music       |
+| Pictures Public Scripts VirtualBox VMs  |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh ALL USERS PLEASE    |
+| NOTE Applications BitTorrent Sync       |
+| Creative Cloud Files Desktop Documents  |
+| Downloads Google Drive Library Movies   |
+| Music Pictures Public Scripts           |
+| VirtualBox VMs codaConfig cow.sh cowsay |
+| cowsay-dump dead.letter downcloud ftb   |
+| game.tmp itake.mp3 kill.sh lookout      |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh Due to a recent     |
+| systems overload error your recent disk |
+| files have been erased. Therefore, in   |
+| accordance with the UNIX Basic Manual,  |
+| University of Washington Geophysics     |
+| Manual, and Bylaw 9(c), Section XII of  |
+| the Revised Federal Communications Act, |
+| you are being granted Temporary Disk    |
+| Space, valid for three months from this |
+| date, subject to the restrictions set   |
+| forth in Appendix II of the Federal     |
+| Communications Handbook (18th edition)  |
+| as well as the references mentioned     |
+| herein. You may apply for more disk     |
+| space at any time. Disk usage in or     |
+| above the eighth percentile will secure |
+| the removal of all restrictions and you |
+| will immediately receive your permanent |
+| disk space. Disk usage in the sixth or  |
+| seventh percentile will not effect the  |
+| validity of your temporary disk space,  |
+| though its expiration date may be       |
+| extended for a period of up to three    |
+| months. A score in the fifth percentile |
+| or below will result in the withdrawal  |
+\ of your Temporary Disk space.           /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

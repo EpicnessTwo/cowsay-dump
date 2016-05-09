@@ -1,0 +1,12 @@
+ ________________________________________ 
+/ "A word to the wise: a credentials     \
+| dicksize war is usually a bad idea on  |
+| the net." (David Parsons in            |
+| c.o.l.development.system, about coding |
+\ in C.)                                 /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

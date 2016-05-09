@@ -1,0 +1,14 @@
+ ________________________________________ 
+/ Niklaus Wirth has lamented that,       \
+| whereas Europeans pronounce his name   |
+| correctly (Ni-klows Virt), Americans   |
+| invariably mangle it into (Nick-les    |
+| Worth). Which is to say that Europeans |
+| call him by name, but Americans call   |
+\ him by value.                          /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

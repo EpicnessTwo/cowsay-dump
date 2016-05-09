@@ -1,0 +1,11 @@
+ _______________________________________ 
+/ "Anyone attempting to generate random \
+| numbers by deterministic means is, of |
+| course, living in a state of sin." -- |
+\ John Von Neumann                      /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

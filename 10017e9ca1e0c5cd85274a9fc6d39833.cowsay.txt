@@ -1,0 +1,10 @@
+ ________________________________________ 
+/ Stinginess with privileges is kindness \
+| in disguise. -- Guide to VAX/VMS       |
+\ Security, Sep. 1984                    /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

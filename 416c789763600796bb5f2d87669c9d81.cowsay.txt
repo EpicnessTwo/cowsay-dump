@@ -1,0 +1,13 @@
+ _________________________________________ 
+/ Actually, typing random strings in the  \
+| Finder does the equivalent of filename  |
+| completion. (Discussion in              |
+| comp.os.linux.misc on the intuitiveness |
+| of commands: file completion vs. the    |
+\ Mac Finder.)                            /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

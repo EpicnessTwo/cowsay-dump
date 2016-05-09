@@ -1,0 +1,14 @@
+ _________________________________________ 
+/ THE LESSER-KNOWN PROGRAMMING LANGUAGES  \
+| #12: LITHP This otherwise unremarkable  |
+| language is distinguished by the        |
+| absence of an "S" in its character set; |
+| users must substitute "TH". LITHP is    |
+| said to be useful in protheththing      |
+\ lithtth.                                /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

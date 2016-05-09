@@ -1,0 +1,22 @@
+ _________________________________________ 
+/ > : Any porters out there should feel   \
+| happier knowing that DEC is shipping >  |
+| : me an AlphaPC that I intend to try    |
+| getting linux running on: this will > : |
+| definitely help flush out some of the   |
+| most flagrant unportable stuff. > : The |
+| Alpha is much more different from the   |
+| i386 than the 68k stuff is, so > : it's |
+| likely to get most of the stuff fixed.  |
+| > > It's posts like this that almost    |
+| convince us non-believers that there >  |
+| really is a god. (A follow-up by        |
+| alovell@kerberos.demon.co.uk, Anthony   |
+| Lovell, to Linus's remarks about        |
+\ porting)                                /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

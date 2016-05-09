@@ -1,0 +1,11 @@
+ _________________________________________ 
+/ This process can check if this value is \
+| zero, and if it is, it does something   |
+| child-like. -- Forbes Burkowski, CS     |
+\ 454, University of Washington           /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

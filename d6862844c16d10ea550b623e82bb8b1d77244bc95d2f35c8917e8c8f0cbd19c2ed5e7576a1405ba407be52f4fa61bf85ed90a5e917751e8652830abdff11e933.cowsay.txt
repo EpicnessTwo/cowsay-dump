@@ -1,0 +1,12 @@
+ _________________________________________ 
+/ When we understand knowledge-based      \
+| systems, it will be as before -- except |
+| our fingertips will have been singed.   |
+| -- Epigrams in Programming, ACM SIGPLAN |
+\ Sept. 1982                              /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

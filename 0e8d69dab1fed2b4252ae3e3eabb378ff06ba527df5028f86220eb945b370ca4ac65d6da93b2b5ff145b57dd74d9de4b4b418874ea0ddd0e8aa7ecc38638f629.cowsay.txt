@@ -1,0 +1,10 @@
+ _______________________________________ 
+/ Let the machine do the dirty work. -- \
+| "Elements of Programming Style",      |
+\ Kernighan and Ritchie                 /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

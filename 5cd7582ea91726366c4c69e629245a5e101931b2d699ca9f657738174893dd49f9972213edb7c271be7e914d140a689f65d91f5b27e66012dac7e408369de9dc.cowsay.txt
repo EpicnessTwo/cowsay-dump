@@ -1,0 +1,28 @@
+ _________________________________________ 
+/ Applications BitTorrent Sync Creative   \
+| Cloud Files Desktop Documents Downloads |
+| Google Drive Library Movies Music       |
+| Pictures Public Scripts VirtualBox VMs  |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+| tunnel.sh uptime.sh MAXIMUM TERMINALS   |
+| ACTIVE. TRY AGAIN LATER Applications    |
+| BitTorrent Sync Creative Cloud Files    |
+| Desktop Documents Downloads Google      |
+| Drive Library Movies Music Pictures     |
+| Public Scripts VirtualBox VMs           |
+| codaConfig cow.sh cowsay cowsay-dump    |
+| dead.letter downcloud ftb game.tmp      |
+| itake.mp3 kill.sh lookout               |
+| no-more-secrets node_modules pdf.pdf    |
+| pinger.sh servers servers.sh temp.save  |
+\ tunnel.sh uptime.sh                     /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

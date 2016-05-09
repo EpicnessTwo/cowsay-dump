@@ -1,0 +1,10 @@
+ ________________________________________ 
+/ It seems intuitively obvious to me,    \
+| which means that it might be wrong. -- |
+\ Chris Torek                            /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

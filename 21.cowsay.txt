@@ -1,0 +1,12 @@
+ ________________________________________ 
+/ "I'd crawl over an acre of 'Visual     \
+| This++' and 'Integrated Development    |
+| That' to get to gcc, Emacs, and gdb.   |
+| Thank you." (By Vance Petree, Virginia |
+\ Power)                                 /
+ ---------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

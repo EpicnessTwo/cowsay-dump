@@ -1,0 +1,20 @@
+ _________________________________________ 
+/ /Applications /Library /Network /System \
+| /Users /Volumes /bin /cores /dev /etc   |
+| /home /installer.failurerequests /net   |
+| /opt /private /sbin /tmp /usr /var      |
+| Halley Applications/ BitTorrent Sync/   |
+| Creative Cloud Files/ Desktop/          |
+| Documents/ Downloads/ Google Drive/     |
+| Library/ Movies/ Music/ Pictures/       |
+| Public/ Scripts/ VirtualBox VMs/        |
+| codaConfig/ cowsay-dump/ cowsay/        |
+| downcloud/ ftb/ lookout/                |
+| no-more-secrets/ node_modules/          |
+\ (Halley's comment.)                     /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

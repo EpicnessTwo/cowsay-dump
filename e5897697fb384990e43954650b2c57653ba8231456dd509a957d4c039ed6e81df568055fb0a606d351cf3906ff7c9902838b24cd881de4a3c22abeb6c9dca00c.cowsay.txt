@@ -1,0 +1,12 @@
+ _______________________________________ 
+/ "In the face of entropy and           \
+| nothingness, you kind of have to      |
+| pretend it's not there if you want to |
+| keep writing good code." -- Karl      |
+\ Lehenbauer                            /
+ --------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
